@@ -1,4 +1,9 @@
-
+/* Grading Notes
+25/25 points
+Note: you probably don't need the extra spaces after the letters in your m function. I didn't deduct any points for this.
+Good job!
+-Sarah Gilliam
+*/
 public class Mississippi {
 
 	public static void main(String[] args) {
